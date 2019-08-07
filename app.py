@@ -25,7 +25,7 @@ def callback():
     #sendText(user,userText)
     if (userText == 'สวยจัง') :
         sendText(user,'5555+')
-    elif (userText == 'แดกข้าว') :
+    elif (userText == 'กินข้าว') :
         sendText(user,'ก็ไปดิ')
     else :
         sendText(user,'ไม่มีไร')
